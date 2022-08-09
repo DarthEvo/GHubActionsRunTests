@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/DarthEvo/GHubActionsRunTests/issues"
   },
-  "homepage": "https://github.com/DarthEvo/GHubActionsRunTests#readme"
+  "homepage": "https://github.com/DarthEvo/GHubActionsRunTests#readme",
+  "devDependencies": {
+    "jest": "^28.1.3"
+  }
 }
